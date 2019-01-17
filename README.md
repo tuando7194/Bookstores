@@ -24,3 +24,6 @@ password: 'express'
 
 # Link homepage: [http://localhost:3000/site](http://localhost:3000/site)
 # Link admin page: [http://localhost:3000](http://localhost:3000)
+
+# Link demo admin page: https://demo-react-books.herokuapp.com
+# Link demo homepage: https://demo-react-books.herokuapp.com/site
